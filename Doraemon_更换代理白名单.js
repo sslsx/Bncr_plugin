@@ -1,7 +1,7 @@
 /**
  * @author Doraemon
  * @name Doraemon_更换代理白名单
- * @origin 红灯区
+ * @team 红灯区
  * @version v1.1.4
  * @description 代理更换白名单，支持品易、巨量、携趣、51、豆芽代理
  * @rule ^(更换白名单)$
